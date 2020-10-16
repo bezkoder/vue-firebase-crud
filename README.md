@@ -4,6 +4,8 @@ For more detail, please visit:
 > [Vue Firebase Realtime Database: CRUD example](https://bezkoder.com/vue-firebase-realtime-database/)
 
 More Practice:
+> [Vue Firestore CRUD example](https://bezkoder.com/vue-firestore-crud/)
+
 > [Vue.js CRUD App with Vue Router & Axios](https://bezkoder.com/vue-js-crud-app/)
 
 > [Vuetify data-table example with a CRUD App | v-data-table](https://bezkoder.com/vuetify-data-table-example/)
